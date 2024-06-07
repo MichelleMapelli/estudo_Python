@@ -1,4 +1,4 @@
-﻿\# Python
+# Python
 
 O objetivo desse repositório é publicar estudos iniciais que fiz com a linguagem Python, assim como Projetos de Análise de Dados utilizando dessa linguagem e criar um portifólio de análise em Python.
 
